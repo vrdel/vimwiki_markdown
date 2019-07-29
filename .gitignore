@@ -1,3 +1,4 @@
+.ropeproject/
 *.egg-info
 __pycache__
 build
